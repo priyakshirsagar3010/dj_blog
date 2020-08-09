@@ -142,3 +142,24 @@ EMAIL_HOST_USER = 'kshirsagarpriya95@gmail.com'
 EMAIL_HOST_PASSWORD = 'pia@1987'
 
 django_heroku.settings(locals())  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
